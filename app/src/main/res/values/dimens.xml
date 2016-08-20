@@ -1,0 +1,8 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="tamano_letra">50sp</dimen>
+    <dimen name="vertical_boton">15sp</dimen>
+    <dimen name="horizontal_boton">50sp</dimen>
+</resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="tamano_letra">100sp</dimen>
+    <dimen name="vertical_boton">30sp</dimen>
+    <dimen name="horizontal_boton">100sp</dimen>
+</resources>

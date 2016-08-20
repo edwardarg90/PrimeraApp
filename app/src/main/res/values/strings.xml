@@ -1,0 +1,4 @@
+<resources>
+    <string name="titulo">Bienvenido</string>
+    <string name="texto_boton">Entrar</string>
+</resources>
